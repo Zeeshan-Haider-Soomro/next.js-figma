@@ -9,9 +9,9 @@ const Card = () => {
        </div>
 
 
-       <div className="container px-4 py-5" id="featured-3">
+       <div className="container px-4 py-5 " id="featured-3 ">
  
-    <div className="row g-4 py-5 row-cols-1 row-cols-lg-4">
+    <div className="row g-4 py-5 row-cols-1 row-cols-lg-4 ">
       <div className="feature col">
         <div className="feature-icon d-inline-flex align-items-center justify-content-center tbg-gradient fs-2 mb-3">
  
