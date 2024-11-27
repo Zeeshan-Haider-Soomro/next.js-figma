@@ -9,7 +9,7 @@ const Navbar = () => {
           <div className="col-md-3 mb-2 mb-md-0">
            
            
-            <Image src="/Logo.png" alt="hj" width={70} height={40}/>
+            <Image src="/images/Logo.png" alt="hj" width={70} height={40}/>
 
             
           </div>
@@ -21,7 +21,7 @@ const Navbar = () => {
             <li><a href="#" className="nav-link px-2 link-secondary">Bookings</a></li>
             <li><a href="#" className="nav-link px-2 link-secondary">Login</a></li>
             <button type="button" className="btn btn-outline-secondary">Sign-up</button>
-            <li><a href="#" className="nav-link px-2 link-secondary">EN</a> </li><Image src="/Vector 1.png" alt="bn" width={8.12} height={4.06}/>  
+            <li><a href="#" className="nav-link px-2 link-secondary">EN</a> </li><Image src="/images/Vector 1.png" alt="bn" width={8.12} height={4.06}/>  
 
           </ul>
     

@@ -7,7 +7,7 @@ const Banner = () => {
         <div className="row flex-lg-row-reverse align-items-center g-5 py-5">
           <div className="col-10 col-sm-8 col-lg-6">
             <Image
-              src="/Image (6).png"
+              src="/images/Image (6).png"
               className="d-block mx-lg-auto img-fluid"
               alt="Bootstrap Themes"
               width="700"
@@ -32,7 +32,7 @@ const Banner = () => {
 
             <div className="d-grid gap-2 d-md-flex justify-content-md-start">
               <Image
-                src="/CTA.png"
+                src="/images/CTA.png"
                 className="img-fluid"
                 alt="CTA"
                 width={400}

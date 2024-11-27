@@ -11,7 +11,7 @@ const Footer = () => {
     <div className="col mb-3">
       <a href="/" className="d-flex align-items-center mb-3 link-body-emphasis text-decoration-none">
    
-        <Image src="/Jadoo.png" alt="" height={66} width={152}/>
+        <Image src="/images/Jadoo.png" alt="" height={66} width={152}/>
       </a>
       <p className="text-body-secondary">Book your trip in minute, get full
 Control for much longer.
@@ -53,12 +53,12 @@ Control for much longer.
     </div>
 
     <div className="col mb-3">
-  <Image src="/Social.png" alt="" width={177} height={45}/>
+  <Image src="/images/Social.png" alt="" width={177} height={45}/>
       <ul className="nav flex-column">
         <li className="nav-item mb-2"><a href="#" className="nav-link p-0 text-body-secondary">Discover our app</a></li>
    
    <div className="flex gap-3">
-     <Image src="/Play Store.png" alt="" width={107} height={35}/> <Image src="/Google Play.png" alt="" width={107} height={35}/>
+     <Image src="/images/Play Store.png" alt="" width={107} height={35}/> <Image src="/images/Google Play.png" alt="" width={107} height={35}/>
      </div>
       </ul>
     </div>
